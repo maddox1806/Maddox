@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-echo "Tejas"
+echo "My first PHP script!";
 ?>
+
+</body>
+</html>
